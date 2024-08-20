@@ -24,8 +24,8 @@
   "author": "Natalia Muryn",
   "license": "ISC",
   "peerDependencies": {
-    "react": "16.9.0",
-    "react-native": "0.61.5"
+    "react": ">=16.9.0",
+    "react-native": ">=0.61.5"
   },
   "dependencies": {
     "lodash": "^4.17.15",
